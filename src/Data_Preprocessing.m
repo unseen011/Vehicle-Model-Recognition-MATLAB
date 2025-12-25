@@ -1,6 +1,3 @@
-% 01_veri_hazirla.m
-% Amac: Etiketlenen (GT) verileri kirpip siniflandirma icin hazirlamak
-
 clear; clc;
 
 % Ayarlar
