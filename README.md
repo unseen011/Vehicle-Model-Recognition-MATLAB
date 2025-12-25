@@ -24,4 +24,3 @@ Bu çalışmada, Türkiye yollarında sıkça karşılaşılan ve birbirine benz
 ## 🛠️ Kullanılan Teknolojiler
 * MATLAB & Image Labeler App
 * **ResNet-50** Pre-trained Network
-* NVIDIA RTX 3060 GPU Computing
