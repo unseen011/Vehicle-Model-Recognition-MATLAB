@@ -19,7 +19,7 @@ Bu çalışmada, Türkiye yollarında sıkça karşılaşılan ve birbirine benz
 ## 📊 Sonuçlar
 
 **Final Başarı Tablosu (Confusion Matrix):**
-![Confusion Matrix](results/Confusion_Matrix_Final_95.png)
+![Confusion Matrix](results/FINAL_Confusion_matrix95.png)
 
 ## 🛠️ Kullanılan Teknolojiler
 * MATLAB & Image Labeler App
